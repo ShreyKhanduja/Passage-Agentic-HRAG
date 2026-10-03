@@ -1,6 +1,6 @@
 # Passage
 
-Passage is a lightweight, fully local AI-powered document search and retrieval application. Upload documents, automatically structure and enrich them with LLM-generated metadata, index them using embeddings from LM Studio in a local Qdrant database, and retrieve relevant information through semantic search or an agentic retrieval workflow.
+Passage a Production level, fully local AI-powered document search and retrieval application. Upload documents, automatically structure and enrich them with LLM-generated metadata, index them using embeddings from LM Studio in a local Qdrant database, and retrieve relevant information through semantic search or an agentic retrieval workflow.
 
 Passage combines **LLM-Enriched Metadata**, **Hierarchical Chunking**, **Agentic Retrieval**, and **HNSW vector indexing** into a completely local Retrieval-Augmented Generation (RAG) pipeline. No cloud services, external vector databases, or API keys are required.
 
