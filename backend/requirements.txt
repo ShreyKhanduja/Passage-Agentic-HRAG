@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-qdrant-client
-python-dotenv
-lmstudio
-pydantic
-python-multipart
-PyPDF2
-python-docx
