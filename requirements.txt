@@ -3,6 +3,9 @@ uvicorn
 qdrant-client
 python-dotenv
 lmstudio
+requests
+langgraph
+langchain-openai
 pydantic
 python-multipart
 PyPDF2
